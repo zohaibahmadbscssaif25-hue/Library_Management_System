@@ -191,13 +191,12 @@ private String password = "your_password";
 
 ### 3. Compile
 ```bash
-javac -cp .;mysql-connector-j-x.x.x.jar db/*.java dao/*.java gui/*.java
-```
+ javac -cp ".;mysql-connector-j-9.6.0.jar" db/ConnectionDb.java dao/Output.java dao/Book.java dao/Member.java dao/Borrowed.java dao/Fine.java dao/Reports.java dao/LoginDao.java gui/LoginFrame.java gui/main.java```
 *(Linux/macOS: replace `;` with `:`)*
 
 ### 4. Run
 ```bash
-java -cp .;mysql-connector-j-x.x.x.jar gui.main
+java -cp ".;mysql-connector-j-9.6.0.jar" gui/main
 ```
 
 ### Running in an IDE (Recommended)
