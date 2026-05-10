@@ -212,9 +212,8 @@ java -cp .;mysql-connector-j-x.x.x.jar gui.main
 
 ▶️ **[Watch the demo on YouTube](https://youtu.be/UyySuBs1ypw)**
 
-*(Replace with your actual YouTube URL before submission.)*
 
----
+
 
 ## 🔗 GitHub Repository
 
