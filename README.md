@@ -217,7 +217,7 @@ java -cp .;mysql-connector-j-x.x.x.jar gui.main
 
 ## 🔗 GitHub Repository
 
-📂 **[https://github.com/YOUR_USERNAME/LibraryManagementSystem](https://github.com/zohaibahmadbscssaif25-hue/Library_Management_System/edit/main/RE)**
+📂 **[https://github.com/YOUR_USERNAME/LibraryManagementSystem](https://github.com/zohaibahmadbscssaif25-hue/Library_Management_System)**
 
 
 ---
